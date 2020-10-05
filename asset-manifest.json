@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Find-Flights/static/css/main.b334caec.chunk.css",
-    "main.js": "/Find-Flights/static/js/main.cf5c6bb5.chunk.js",
-    "main.js.map": "/Find-Flights/static/js/main.cf5c6bb5.chunk.js.map",
-    "runtime-main.js": "/Find-Flights/static/js/runtime-main.b403e29c.js",
-    "runtime-main.js.map": "/Find-Flights/static/js/runtime-main.b403e29c.js.map",
-    "static/js/2.82bdd6d1.chunk.js": "/Find-Flights/static/js/2.82bdd6d1.chunk.js",
-    "static/js/2.82bdd6d1.chunk.js.map": "/Find-Flights/static/js/2.82bdd6d1.chunk.js.map",
-    "index.html": "/Find-Flights/index.html",
-    "precache-manifest.3ed673423302eb37892de5e6e529521f.js": "/Find-Flights/precache-manifest.3ed673423302eb37892de5e6e529521f.js",
-    "service-worker.js": "/Find-Flights/service-worker.js",
-    "static/css/main.b334caec.chunk.css.map": "/Find-Flights/static/css/main.b334caec.chunk.css.map",
-    "static/js/2.82bdd6d1.chunk.js.LICENSE.txt": "/Find-Flights/static/js/2.82bdd6d1.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Find-Flights/static/media/703254.1a95c92e.jpg",
-    "static/media/logo.png": "/Find-Flights/static/media/logo.39ba412d.png"
+    "main.css": "/find-flights/static/css/main.8f437210.chunk.css",
+    "main.js": "/find-flights/static/js/main.cf5c6bb5.chunk.js",
+    "main.js.map": "/find-flights/static/js/main.cf5c6bb5.chunk.js.map",
+    "runtime-main.js": "/find-flights/static/js/runtime-main.dbe3ef0d.js",
+    "runtime-main.js.map": "/find-flights/static/js/runtime-main.dbe3ef0d.js.map",
+    "static/js/2.82bdd6d1.chunk.js": "/find-flights/static/js/2.82bdd6d1.chunk.js",
+    "static/js/2.82bdd6d1.chunk.js.map": "/find-flights/static/js/2.82bdd6d1.chunk.js.map",
+    "index.html": "/find-flights/index.html",
+    "precache-manifest.a4cc993d6db350578f309448d74aa349.js": "/find-flights/precache-manifest.a4cc993d6db350578f309448d74aa349.js",
+    "service-worker.js": "/find-flights/service-worker.js",
+    "static/css/main.8f437210.chunk.css.map": "/find-flights/static/css/main.8f437210.chunk.css.map",
+    "static/js/2.82bdd6d1.chunk.js.LICENSE.txt": "/find-flights/static/js/2.82bdd6d1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/find-flights/static/media/703254.1a95c92e.jpg",
+    "static/media/logo.png": "/find-flights/static/media/logo.39ba412d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b403e29c.js",
+    "static/js/runtime-main.dbe3ef0d.js",
     "static/js/2.82bdd6d1.chunk.js",
-    "static/css/main.b334caec.chunk.css",
+    "static/css/main.8f437210.chunk.css",
     "static/js/main.cf5c6bb5.chunk.js"
   ]
 }
