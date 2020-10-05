@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/NajeebDev.github.io/Find-Flights/static/css/main.6ca0de94.chunk.css",
+    "main.js": "/NajeebDev.github.io/Find-Flights/static/js/main.cf5c6bb5.chunk.js",
+    "main.js.map": "/NajeebDev.github.io/Find-Flights/static/js/main.cf5c6bb5.chunk.js.map",
+    "runtime-main.js": "/NajeebDev.github.io/Find-Flights/static/js/runtime-main.44e170f6.js",
+    "runtime-main.js.map": "/NajeebDev.github.io/Find-Flights/static/js/runtime-main.44e170f6.js.map",
+    "static/js/2.82bdd6d1.chunk.js": "/NajeebDev.github.io/Find-Flights/static/js/2.82bdd6d1.chunk.js",
+    "static/js/2.82bdd6d1.chunk.js.map": "/NajeebDev.github.io/Find-Flights/static/js/2.82bdd6d1.chunk.js.map",
+    "index.html": "/NajeebDev.github.io/Find-Flights/index.html",
+    "precache-manifest.9281fc6698af8f45f6bb0911666fe5bd.js": "/NajeebDev.github.io/Find-Flights/precache-manifest.9281fc6698af8f45f6bb0911666fe5bd.js",
+    "service-worker.js": "/NajeebDev.github.io/Find-Flights/service-worker.js",
+    "static/css/main.6ca0de94.chunk.css.map": "/NajeebDev.github.io/Find-Flights/static/css/main.6ca0de94.chunk.css.map",
+    "static/js/2.82bdd6d1.chunk.js.LICENSE.txt": "/NajeebDev.github.io/Find-Flights/static/js/2.82bdd6d1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/NajeebDev.github.io/Find-Flights/static/media/703254.1a95c92e.jpg",
+    "static/media/logo.png": "/NajeebDev.github.io/Find-Flights/static/media/logo.39ba412d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44e170f6.js",
+    "static/js/2.82bdd6d1.chunk.js",
+    "static/css/main.6ca0de94.chunk.css",
+    "static/js/main.cf5c6bb5.chunk.js"
+  ]
+}
