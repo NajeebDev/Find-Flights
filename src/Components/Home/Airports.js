@@ -3,13 +3,14 @@ import airportsData from '../../airportsData.json';
 
 function Airports(props) {
     return (
-        <div>
+        <>
+            <option value="">please Select your airport flight</option>
             {airportsData.map((data) => (
-            <option data={props.data}>
-                {data.iataCode}, {data.location}, {data.country}
-            </option>
+                <option key={data.iataCode} value={data.iataCode} defaultValue={data.iataCode == props.default} >
+                    {data.iataCode}, {data.location}, {data.country}
+                </option>
             ))}
-        </div>
+        </>
     )
 }
 
